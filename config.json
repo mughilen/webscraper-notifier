@@ -1,0 +1,9 @@
+{
+  "url": "https://example.com",
+  "keyword": "New Blog Post",
+  "sender_email": "your_email@gmail.com",
+  "receiver_email": "your_email@gmail.com",
+  "smtp_server": "smtp.gmail.com",
+  "smtp_port": 587,
+  "email_password": "your_app_password"
+}
